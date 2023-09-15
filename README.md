@@ -13,4 +13,6 @@ Links:
 <br>
 https://developer.mozilla.org/en-US/
 <br>
+https://developer.mozilla.org/en-US/docs/Learn/HTML
+<br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
