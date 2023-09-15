@@ -1,7 +1,7 @@
 # http5110
 Repo to store files from HTTP5110
 
-Description: This repo is for storing some information for the class for Web Development that I am taking on Wednesdays
+Description: This repo is for storing some information for the class for Intro to Web Development that I am taking on Wednesdays
 
 Instructions: 
 1. Go to class
