@@ -17,3 +17,4 @@ Monday 2:25 pm - 5:05 pm
 | **Assignment: Resume post on GitHub** | 10/2/2023 |
 | Class # 5 | 10/16/2023 |
 | **Pre/Pro test - Fundamentals of Computer Programming** | 10/16/2023 |
+| **Time Sheet** | 10/20/2023 |
