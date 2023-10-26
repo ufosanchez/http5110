@@ -1,18 +1,11 @@
 # http5110
-Repo to store files from HTTP5110
+Repo to store files from HTTP5110 - Bernard Monette
 
-Description: This repo is for storing some information for the class for Intro to Web Development that I am taking on Wednesdays
+Monday 2:25 pm - 5:05 pm
 
-Instructions: 
-1. Go to class
-2. Study before taking the class
-3. Prepare any question
-4. Learn HTML, CSS and JavaScript
+## This repository will contain all the files related to this course
 
-Links:
-<br>
-https://developer.mozilla.org/en-US/
-<br>
-https://developer.mozilla.org/en-US/docs/Learn/HTML
-<br>
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+| Activity | Date |
+| ----------- | ----------- |
+| Class # 1 | 9/8/2023 |
+| Paragraph | Text |
