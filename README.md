@@ -9,7 +9,7 @@ In this class I learned some key concepts of web development, we created a simpl
 
 ### CLI
 
-	
+	```
     {
         [monette@apollo ~]$ cd
         [monette@apollo ~]$ mkdir playground
@@ -17,7 +17,7 @@ In this class I learned some key concepts of web development, we created a simpl
         [monette@apollo playground]$ mkdir dir1 dir2
 
     }
-    
+    ```
 
 ## This repository will contain all the files related to this course
 
